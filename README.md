@@ -1,1 +1,62 @@
-# auditlog-stock
+
+### Available Logs
+
+|    Log Name   | Status |
+|---------------------------|--------|
+|  *ChannelCreate*              |   ✅   |
+|  *ChannelDelete*              |   ✅   |
+|  *ChannelNameUpdate*          |   ✅   |
+|  *ChannelTopicUpdate*         |   ✅   |
+|  *ChannelTypeUpdate*          |   ✅   |
+|  *ChannelPermissionsUpdate*   |   ✅   |
+|  *ChannelInviteCreated*       |   ✅   |
+|  *ChannelInviteDeleted*       |   ✅   |
+|  *RoleCreate*                 |   ✅   |
+|  *RoleDelete*                 |   ✅   |
+|  *RoleNameUpdate*             |   ✅   |
+|  *RoleIconUpdate*             |   ✅   |
+|  *RoleColorUpdate*            |   ✅   |
+|  *RolePositionUpdate*         |   ✅   |
+|  *RolePermissionsUpdate*      |   ✅   |
+|  *EmojiCreate*                |   ✅   |
+|  *EmojiUpdate*                |   ✅   |
+|  *EmojiUpdate*                |   ✅   |
+|  *StickerCreate*              |   ✅   |
+|  *StickerDelete*              |   ✅   |
+|  *StickerUpdate*              |   ✅   |
+|  *MemberJoined*               |   ✅   |
+|  *MemberKicked*               |   ✅   |
+|  *MemberBanned*               |   ✅   |
+|  *MemberRoleAdd*              |   ✅   |
+|  *MemberRoleRemove*           |   ✅   |
+|  *MemberNicknameUpdate*       |   ✅   |
+|  *MemberTimeout*              |   ✅   |
+|  *MemberUntimeout*            |   ✅   |
+|  *GuildNameUpdate*            |   ✅   |
+|  *GuildIconUpdate*            |   ✅   |
+|  *GuildOwnershipTransfer*     |   ✅   |
+|  *VoiceMemberJoined*          |   ✅   |
+|  *VoiceMemberLeaved*          |   ✅   |
+|  *VoiceStartStreaming*        |   ✅   |
+|  *VoiceStopStreaming*         |   ✅   |
+|  *VoiceOpenVideoCamera*       |   ✅   |
+|  *VoiceCloseVideoCamera*      |   ✅   |
+|  *VoiceSwitchTheChannel*      |   ✅   |
+|  *VoiceMemberMuted*           |   ✅   |
+|  *VoiceMemberDeafen*          |   ✅   |
+|  *VoiceMemberKicked*          |   ✅   |
+|  *ThreadCreate*               |   ✅   |
+|  *ThreadDelete*               |   ✅   |
+|  *ThreadUpdate*               |   ✅   |
+|  *MessageUpdated*             |   ✅   |
+|  *MessageDeleted*             |   ✅   |
+|  *GuildEventCreated*          |   ✅   |
+|  *GuildEventDeleted*          |   ✅   |
+|  *GuildEventUpdated*          |   ✅   |
+|  *GuildEventUserAdded*        |   ✅   |
+|  *GuildEventUserRemove*       |   ✅   |
+|  *AutoModerationRuleCreated*  |   ✅   |
+|  *AutoModerationRuleDeleted*  |   ✅   |
+|  *AutoModerationRuleUpdated*  |   ✅   |
+|  *GuildMembersChunk*          |   ⏳   |
+|  *GuildIntegrationsUpdate*    |   ⏳   |
